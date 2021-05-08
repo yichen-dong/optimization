@@ -1,2 +1,2 @@
 # optimization
-Optimization class from JHU 
+Optimization class from JHU, mostly down in Matlab
